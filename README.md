@@ -1,5 +1,5 @@
 # storefront
-<br>
+
 ### Integrating with Shopify
 <br>
 
@@ -23,8 +23,9 @@
 
 <br>
 domain:"SHOP DOMAIN NAME"
+<br>
 storefrontAccessToken: 'STOREFRONT ACCESS TOKEN'
-
+<br>
 STOREFRONT ACCESS TOKEN
 <br>
 in pvt app at the bottom.
