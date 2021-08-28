@@ -4,8 +4,9 @@
 <hr>
 cd to storefront then change the middelware.config.js
 <br>
-<hr>
-module.exports = {
+
+<code>
+  module.exports = {
   integrations: {
     shopify: {
       location: '@vue-storefront/shopify-api/server',
@@ -20,8 +21,9 @@ module.exports = {
     }
   }
 };
+ </code>
 
-<hr>
+<br>
 domain:"SHOP DOMAIN NAME"
 storefrontAccessToken: 'STOREFRONT ACCESS TOKEN'
 
