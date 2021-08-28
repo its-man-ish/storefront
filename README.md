@@ -1,8 +1,6 @@
 # storefront
 <br>
-### Intigrating with shopify
-<hr>
-cd to storefront then change the middelware.config.js
+### Integrating with Shopify
 <br>
 
 <code>
